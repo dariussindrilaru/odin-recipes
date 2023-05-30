@@ -1,8 +1,6 @@
 body {
-  background-color: blanchedalmond;
-  font-family: Helvetica;
-}
-
-h1 {
-  font-size: 40px;
+  background-color: #e7eaf6;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  color: #113f67;
 }
