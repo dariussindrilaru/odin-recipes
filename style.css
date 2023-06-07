@@ -4,3 +4,8 @@ body {
   font-weight: 300;
   color: #113f67;
 }
+
+.recipe-image {
+  height: auto;
+  width: 400px;
+}
